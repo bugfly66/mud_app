@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423272304090",
+    "project_id": "game-37edb",
+    "storage_bucket": "game-37edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423272304090:android:fecb0c563ed877f2a444e3",
+        "android_client_info": {
+          "package_name": "com.game.mud_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423272304090-234gsuug0fgbf7qapismuneqqc9m27sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9iWYwsFEPmwjwy_1POY_c5PLO-BXu9oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423272304090-234gsuug0fgbf7qapismuneqqc9m27sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
